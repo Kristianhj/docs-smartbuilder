@@ -1,6 +1,6 @@
 # Tweaking results
 
-There are several easy means of tweaking the results if you need to. 
+The algorithm have pre-set to give the best results, but There are several easy means of tweaking the results if you need to. 
 
 ## Tweaking Results: Tags
 
