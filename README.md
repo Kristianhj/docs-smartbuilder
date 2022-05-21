@@ -16,7 +16,8 @@ SmartBuilder - Level Design Tool
 * Anyone building a scene containing props and prefabs
 * Anyone tired of finding the relevant assets in the project view
 * Anyone who has bought big 2D/3D asset packs
-* Anyone who wants an easy way to replace prefabs Anyone who wants Default Prefab Parent tooling _(Unity 2021 and newer)_
+* Anyone who wants an easy and powerfull way to replace prefabs 
+* Anyone who wants Default Prefab Parent tooling _(Unity 2021 and newer)_
 
 ## Features
 
