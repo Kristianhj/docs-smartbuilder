@@ -3,7 +3,7 @@
 * [About SmartBuilder](README.md)
 
 ## Guides
-* [Getting Started](guides/getting-started.mdgetting-started.md)
+* [Getting Started](guides/getting-started.md)
 
 ## Features
 
@@ -17,7 +17,7 @@
 
 ## Extras
 
-* [Keyboard Shortcuts](extras/screenshots.md)
+* [Screenshots](extras/screenshots.md)
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
 
 ***
