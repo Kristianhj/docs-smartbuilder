@@ -43,4 +43,4 @@ Smartbuilder gives you a intutitive window with a list of context sensitive asse
 
 ## Where can I get this?
 
-Get it from the [Unity Asset Store](https://prf.hn/click/camref:1011l4Izm/pubref:Forum/ar:Main/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Fslug%2F206777)
+Get it from the [Unity Asset Store](https://prf.hn/click/camref:1011l4Izm/pubref:Documentation/ar:Main/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Fslug%2F206777)
