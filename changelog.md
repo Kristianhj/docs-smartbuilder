@@ -31,14 +31,14 @@
 - Changed vector3 to cubic size in inspector area
 - Fixed refresh issue when changing search params
 
-## [1.0.1]
-- Update to documentation
-
 ## [1.0.2]
 - Favorites and History are now project specific
 - Now usuable in unity 2019.x (Minimum supported version still 2020)
 - Exposed search algorithm parameters
 - Allowing more modular reset of setting groups
+
+## [1.0.1]
+- Update to documentation
 
 ## [1.0.0]
 - Initial release of SmartBuilder
