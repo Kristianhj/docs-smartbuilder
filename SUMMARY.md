@@ -27,3 +27,7 @@
 ## Extras
 
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+
+***
+
+* [Changelog](changelog.md)
