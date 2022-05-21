@@ -1,6 +1,6 @@
 # SmartBuilder
 
-{% hint style="info" %}`SmartBuilder is a level design tool which uses smart algorithms to find the assets you need based on the current selected context. i.e. if you select a pirate ship prefab, SmartBuilder will show you other ships, and other pirate related props. SmartBuilder is 100% plug and play - no setup required.{% endhint %}
+{% hint style="info" %}SmartBuilder is a level design tool which uses smart algorithms to find the assets you need based on the current selected context. i.e. if you select a pirate ship prefab, SmartBuilder will show you other ships, and other pirate related props. SmartBuilder is 100% plug and play - no setup required.{% endhint %}
 
 ![SmartBuilder](/images/GettingStarted.png "Get the assets you need, when you need them")
 
