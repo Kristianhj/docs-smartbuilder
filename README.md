@@ -1,71 +1,45 @@
-# What is MyProduct?
+# SmartBuilder
 
-{% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
-{% endhint %}
+{% hint style="info" %}`SmartBuilder is a level design tool which uses smart algorithms to find the assets you need based on the current selected context. i.e. if you select a pirate ship prefab, SmartBuilder will show you other ships, and other pirate related props. SmartBuilder is 100% plug and play - no setup required.{% endhint %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+![SmartBuilder](/images/GettingStarted.png "Get the assets you need, when you need them")
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+**Got 2 minutes?** Check out a video overview of SmartBuilder:
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O8PZFflOFlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Getting Started
+## Who is this for?
 
-**Got 2 minutes?** Check out a video overview of our product:
+- Level designers and Environment artist
+- Anyone building a scene containing props and prefabs
+- Anyone tired of finding the relevant assets in the project view
+- Anyone who has bought big 2D/3D asset packs
+- Anyone who wants an easy way to replace prefabs
+Anyone who wants Default Prefab Parent tooling *(Unity 2021 and newer)*
 
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
+## Features
 
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
+- Shows relavants assets
+- Drag and Drop directly from SmartBuilder window
+- Works with both 2D and 3D
+- Works with all asset packs (If they are meaningfully named)
+- High level of usability
+- Replace selected prefab
+- Set and clear Default Prefab Parent (Unity 2021 and Newer)
+- Replace ALL prefabs of selected type
+- Allows you to customize components to keep when replacing assets
+- Finds related assets using linguistic morphology metrics
+- Persistent History and Favorites feature
+- Hooks into Asset Store to help you find the assets you need
+- Customizable asset previews
+- Customizable UI
+- Customizable algorithm
 
-### Guides: Jump right in
+## How does this work?
 
-Follow our handy guides to get started on the basics as quickly as possible:
+Smartbuilder gives you a intutitive window with a list of context sensitive assets - i.e. if you are building a forest, it gives you a grid of vegetation prefabs and if you are building a Village it gives you a grid of houses. It will reflect your selection, and always show you the most relevant prefabs and allow you to drag directly into the scene. It does this by analyzing the filename, directory, tags and labels of your assets.
 
-{% content-ref url="guides/creating-your-first-project.md" %}
-[creating-your-first-project.md](guides/creating-your-first-project.md)
-{% endcontent-ref %}
+## Where can I get this?
 
-{% content-ref url="guides/creating-your-first-task.md" %}
-[creating-your-first-task.md](guides/creating-your-first-task.md)
-{% endcontent-ref %}
-
-{% content-ref url="guides/advanced-permissions.md" %}
-[advanced-permissions.md](guides/advanced-permissions.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
-### Fundamentals: Dive a little deeper
-
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
-
-{% content-ref url="fundamentals/projects.md" %}
-[projects.md](fundamentals/projects.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/members.md" %}
-[members.md](fundamentals/members.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/task-lists.md" %}
-[task-lists.md](fundamentals/task-lists.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/tasks.md" %}
-[tasks.md](fundamentals/tasks.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
-{% endhint %}
+Get it from the [Unity Asset Store](
+https://prf.hn/click/camref:1011l4Izm/pubref:Forum/ar:Main/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Fslug%2F206777)
