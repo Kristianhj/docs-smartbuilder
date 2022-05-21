@@ -1,17 +1,23 @@
 # Table of contents
 
-* [SmartBuilder](README.md)
-* [Getting Started](getting-started.md)
+* [About SmartBuilder](README.md)
 
-## features
+## Guides
+* [Getting Started](guides/getting-started.mdgetting-started.md)
 
-* [Projects](features/projects.md)
-* [Members](features/members.md)
-* [Task Lists](features/task-lists.md)
-* [Tasks](features/tasks.md)
+## Features
+
+* [Tweaking the results](features/tweaking-results.md)
+* [History](features/history.md)
+* [Favorites](features/favorites.md)
+* [Settings](features/settings.md)
+* [Inspector](features/Inspector.md)
+* [Default Prefab Parent](features/prefab-parent.md)
+* [Asset Store Connection](features/assetstore.md)
 
 ## Extras
 
+* [Keyboard Shortcuts](extras/screenshots.md)
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
 
 ***
