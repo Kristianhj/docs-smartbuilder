@@ -1,39 +1,40 @@
-# SmartBuilder
+# What is MyProduct?
 
-{% hint style="info" %}SmartBuilder is a level design tool which uses smart algorithms to find the assets you need based on the current selected context. i.e. if you select a pirate ship prefab, SmartBuilder will show you other ships, and other pirate related props. SmartBuilder is 100% plug and play - no setup required.{% endhint %}
+{% hint style="info" %}
+SmartBuilder is a level design tool which uses smart algorithms to find the assets you need based on the current selected context. i.e. if you select a pirate ship prefab, SmartBuilder will show you other ships, and other pirate related props. SmartBuilder is 100% plug and play - no setup required.
+{% endhint %}
 
-![SmartBuilder](/images/GettingStarted.png "Get the assets you need, when you need them")
+Check out a video overview of SmartBuilder:
 
-**Got 2 minutes?** Check out a video overview of SmartBuilder:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O8PZFflOFlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% embed url="https://www.youtube.com/watch?v=O8PZFflOFlE" %}
+SmartBuilder - Level Design Tool
+{% endembed %}
 
 ## Who is this for?
 
-- Level designers and Environment artist
-- Anyone building a scene containing props and prefabs
-- Anyone tired of finding the relevant assets in the project view
-- Anyone who has bought big 2D/3D asset packs
-- Anyone who wants an easy way to replace prefabs
-Anyone who wants Default Prefab Parent tooling *(Unity 2021 and newer)*
+* Level designers and Environment artist
+* Anyone building a scene containing props and prefabs
+* Anyone tired of finding the relevant assets in the project view
+* Anyone who has bought big 2D/3D asset packs
+* Anyone who wants an easy way to replace prefabs Anyone who wants Default Prefab Parent tooling _(Unity 2021 and newer)_
 
 ## Features
 
-- Shows relavants assets
-- Drag and Drop directly from SmartBuilder window
-- Works with both 2D and 3D
-- Works with all asset packs (If they are meaningfully named)
-- High level of usability
-- Replace selected prefab
-- Set and clear Default Prefab Parent (Unity 2021 and Newer)
-- Replace ALL prefabs of selected type
-- Allows you to customize components to keep when replacing assets
-- Finds related assets using linguistic morphology metrics
-- Persistent History and Favorites feature
-- Hooks into Asset Store to help you find the assets you need
-- Customizable asset previews
-- Customizable UI
-- Customizable algorithm
+* Shows relavants assets
+* Drag and Drop directly from SmartBuilder window
+* Works with both 2D and 3D
+* Works with all asset packs (If they are meaningfully named)
+* High level of usability
+* Replace selected prefab
+* Set and clear Default Prefab Parent (Unity 2021 and Newer)
+* Replace ALL prefabs of selected type
+* Allows you to customize components to keep when replacing assets
+* Finds related assets using linguistic morphology metrics
+* Persistent History and Favorites feature
+* Hooks into Asset Store to help you find the assets you need
+* Customizable asset previews
+* Customizable UI
+* Customizable algorithm
 
 ## How does this work?
 
@@ -41,5 +42,4 @@ Smartbuilder gives you a intutitive window with a list of context sensitive asse
 
 ## Where can I get this?
 
-Get it from the [Unity Asset Store](
-https://prf.hn/click/camref:1011l4Izm/pubref:Forum/ar:Main/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Fslug%2F206777)
+Get it from the [Unity Asset Store](https://prf.hn/click/camref:1011l4Izm/pubref:Forum/ar:Main/destination:https%3A%2F%2Fassetstore.unity.com%2Fpackages%2Fslug%2F206777)
