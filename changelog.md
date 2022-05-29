@@ -1,5 +1,11 @@
 # SmartBuilder : Level Design Tool
 
+## [1.2.3]
+- Fixed issue with DragDrop registering wrong asset
+
+## [1.2.2]
+- Moved to UPM Package format
+
 ## [1.2.1]
 - Changed default shortcuts
 
