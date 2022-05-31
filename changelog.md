@@ -1,5 +1,8 @@
 # SmartBuilder : Level Design Tool
 
+## [1.2.4]
+- Fixed issue with Upgrader being Editor Only
+
 ## [1.2.3]
 - Fixed issue with DragDrop registering wrong asset
 
