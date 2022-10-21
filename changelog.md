@@ -1,5 +1,8 @@
 # SmartBuilder : Level Design Tool
 
+## [1.2.5]
+- Improved loading of icons
+
 ## [1.2.4]
 - Fixed issue with Upgrader being Editor Only
 
