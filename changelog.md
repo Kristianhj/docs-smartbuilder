@@ -1,5 +1,10 @@
 # SmartBuilder : Level Design Tool
 
+## [1.2.6]
+- Improved integration with Asset Store (Right click + inspector)
+- Removed menuitem meant only for production
+- Moved menuitem for SmartReplacer inside SmartBuilder item
+
 ## [1.2.5]
 - Improved loading of icons
 
