@@ -1,5 +1,8 @@
 # SmartBuilder : Level Design Tool
 
+## [1.2.7]
+- Fixed 'out of range' issue when having not selection in grid
+
 ## [1.2.6]
 - Improved integration with Asset Store (Right click + inspector)
 - Removed menuitem meant only for production
