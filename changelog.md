@@ -1,5 +1,8 @@
 # SmartBuilder : Level Design Tool
 
+## [1.2.8]
+- Now able to load icons outside packages
+
 ## [1.2.7]
 - Fixed 'out of range' issue when having not selection in grid
 
