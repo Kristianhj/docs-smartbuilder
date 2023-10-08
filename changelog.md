@@ -1,5 +1,11 @@
 # SmartBuilder : Level Design Tool
 
+## [1.2.10]
+- Minor refactor
+
+## [1.2.9]
+- Trivial changes
+
 ## [1.2.8]
 - Now able to load icons outside packages
 
