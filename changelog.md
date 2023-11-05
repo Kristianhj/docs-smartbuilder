@@ -1,5 +1,8 @@
 # SmartBuilder : Level Design Tool
 
+## [1.2.11]
+- Fixed warnings in Unity2023
+
 ## [1.2.10]
 - Minor refactor
 
