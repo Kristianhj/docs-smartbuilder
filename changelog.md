@@ -1,5 +1,9 @@
 # SmartBuilder : Level Design Tool
 
+## [1.2.12]
+- Added nullchecks for procedurally generated meshes
+- Fixed colorscheme for prefabs with no meshes
+
 ## [1.2.11]
 - Fixed warnings in Unity2023
 
