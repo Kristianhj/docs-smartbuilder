@@ -1,5 +1,9 @@
 # SmartBuilder : Level Design Tool
 
+## [1.2.13]
+- [Minor] Utility changes
+- [Minor]  Unselected tags are now grey 
+
 ## [1.2.12]
 - Added nullchecks for procedurally generated meshes
 - Fixed colorscheme for prefabs with no meshes
