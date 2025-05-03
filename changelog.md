@@ -1,8 +1,11 @@
-# SmartBuilder : Level Design Tool
+﻿# SmartBuilder : Level Design Tool
+
+## [1.2.14]
+- Changed CenteredMessage GUIStyle
 
 ## [1.2.13]
-- [Minor] Utility changes
-- [Minor]  Unselected tags are now grey 
+- Minor Utility changes
+- Changed unselected tags to grey 
 
 ## [1.2.12]
 - Added nullchecks for procedurally generated meshes
