@@ -1,5 +1,8 @@
 ﻿# SmartBuilder : Level Design Tool
 
+## [1.2.15]
+- Fixed Obsolete warnings in 6000.3
+
 ## [1.2.14]
 - Changed CenteredMessage GUIStyle
 
